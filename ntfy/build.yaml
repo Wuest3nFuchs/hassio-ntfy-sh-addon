@@ -7,7 +7,7 @@ build_from:
 labels:
   org.opencontainers.image.title: "ntfy Home Assistant Add-on"
   org.opencontainers.image.description: "Self-hosted notification service"
-  org.opencontainers.image.source: "https://github.com/your-username/hassio-ntfy"
+  org.opencontainers.image.source: "https://github.com/michalchecinski/hassio-ntfy-sh-addon"
   org.opencontainers.image.licenses: "MIT"
 args:
   NTFY_VERSION: "2.8.0"

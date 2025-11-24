@@ -21,7 +21,7 @@ This add-on runs [ntfy](https://ntfy.sh/) - a simple HTTP-based pub-sub notifica
 ## Installation
 
 1. Navigate in your Home Assistant frontend to **Supervisor** -> **Add-on Store**
-2. Add this repository URL: `https://github.com/your-username/hassio-ntfy`
+2. Add this repository URL: `https://github.com/michalchecinski/hassio-ntfy-sh-addon`
 3. Find the "ntfy" add-on and click it
 4. Click on the "INSTALL" button
 
