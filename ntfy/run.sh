@@ -1,4 +1,4 @@
-#!/usr/bin/with-contenv bashio
+#!/usr/bin/with-contenv bash
 
 # ==============================================================================
 # Home Assistant Community Add-on: ntfy

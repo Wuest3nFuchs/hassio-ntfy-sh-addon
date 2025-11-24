@@ -39,4 +39,3 @@ schema:
   enable_signup: "bool"
   enable_login: "bool"
   enable_reservations: "bool"
-image: "ghcr.io/home-assistant/{arch}-addon-ntfy"
