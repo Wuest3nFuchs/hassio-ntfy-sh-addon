@@ -123,4 +123,4 @@ echo "[INFO] Behind Proxy: ${BEHIND_PROXY}"
 
 # Start ntfy server
 echo "[INFO] Starting ntfy server..."
-exec /usr/local/bin/ntfy serve --config="${CONFIG_FILE}"
+exec /usr/bin/ntfy serve --config="${CONFIG_FILE}"
