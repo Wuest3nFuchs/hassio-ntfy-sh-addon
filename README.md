@@ -28,7 +28,7 @@ This repository contains the Home Assistant add-on for [ntfy](https://ntfy.sh/),
 
 1. Add this repository to your Home Assistant add-on store:
    ```
-   https://github.com/michalchecinski/hassio-ntfy-sh-addon
+   https://github.com/Wuest3nFuchs/hassio-ntfy-sh-addon
    ```
 
 2. Install the ntfy add-on from the add-on store
